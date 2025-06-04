@@ -39,14 +39,6 @@ Terminal-based cloth store app with staff, customer, and admin modules.
 `Python` `PostgreSQL` `Command Line`  
 
 
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/-DRF-EF4B4B?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
----
 
 ## 📈 GitHub Stats
 
