@@ -49,9 +49,10 @@ Terminal-based cloth store app with staff, customer, and admin modules.
 
 ## 📬 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rakshit-parmar-044202227/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rakshit-parmar-044202227/)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:rakshitparmar073@email.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green)]([https://rakshitparmar.dev](https://rakshit3245.github.io/Rakshit_Portfolio/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-green)](https://rakshit3245.github.io/Rakshit_Portfolio/)
+
 
 ---
 
